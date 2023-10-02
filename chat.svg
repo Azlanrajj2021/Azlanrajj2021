@@ -46,7 +46,7 @@
 
     .typing-4 {
       opacity: 0;
-      animation: wait 7.5s, fade-in-out 1.5s 5s;
+      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
     }
 
     .msg-4 {
@@ -107,11 +107,11 @@
     @keyframes msg-4 {
       0% {
         opacity: 0;
-        transform: translate(10px, 125px);
+        transform: translate(10px, 197px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 120px);
+        transform: translate(10px, 192px);
       }
     }
 
@@ -239,11 +239,11 @@
     <text x="15" y="50">specialising in Connected Vehicle Data.</text>
   </g>
 
-  <!-- typing 4 -->
-  <g transform="translate(10, 120)" class="typing-4">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+ <!-- typing 4 -->
+  <g transform="translate(10, 192)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
     <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
@@ -257,9 +257,9 @@
 
   </g>
 
-  <!-- Experimenting ... -->
-  <g transform="translate(10, 120)" class="msg-4">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+  <!-- Experimenting -->
+  <g transform="translate(10, 192)" class="msg-4">
+    <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Love coding, looking for fun projects to dig my hands in.</text>
   </g>
 
