@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <br><img src="https://github.com/azlanrajj2021/azlanrajj2021/blob/master/assets/gifs/snake.svg" width="450px">
+  <br><img src="https://github.com/azlanrajj2021/azlanrajj2021/assets/gifs/snake.svg" width="450px">
 </p>
