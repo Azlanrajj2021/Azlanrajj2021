@@ -191,7 +191,7 @@
   <!-- From Manchester... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Manchester, UK where it’s supposed to be</text>
+    <text x="15" y="27">I live in Manchester, UK</text>
   </g>
 
   <!-- typing 3 -->
@@ -216,7 +216,6 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Data Engineer. I used to work at Wejo,</text>
-    <text x="15" y="50">specialising in Connected Vehicle Data,</text>
     <text x="15" y="50">until it went into administration.</text>
   </g>
 </svg>
