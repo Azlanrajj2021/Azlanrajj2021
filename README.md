@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am an experienced Data Engineer 💻, Passionate about improving my python programming skills and creating projects for run.**
+**I am an experienced Data Engineer 💻, passionate about improving my python programming skills and creating projects for fun.**
 <!--
 **Azlanrajj2021/Azlanrajj2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
