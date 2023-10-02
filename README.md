@@ -1,4 +1,4 @@
-### Hi there 👋
+[![](https://github.com/Azlanrajj2021/Azlanrajj2021/blob/main/chat.svg)]()
 
 **I am an experienced Data Engineer 💻, passionate about improving my python programming skills and creating projects for fun.**
 <!--
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## My Presence on the World Wide Web
 
 - [@LinkedIn](https://www.linkedin.com/in/azlan-afzal/)
-
-[![](https://github.com/Azlanrajj2021/Azlanrajj2021/blob/main/chat.svg)]()
 
 <p align="center">
   <br><img src="https://github.com/Azlanrajj2021/Azlanrajj2021/blob/main/assets/gifs/snake.svg" width="450px">
