@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - [@LinkedIn](https://www.linkedin.com/in/azlan-afzal/)
 
+[![](https://github.com/Azlanrajj2021/Azlanrajj2021/blob/main/chat.svg)
 
 <p align="center">
   <br><img src="https://github.com/Azlanrajj2021/Azlanrajj2021/blob/main/assets/gifs/snake.svg" width="450px">
